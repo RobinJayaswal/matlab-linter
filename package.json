@@ -1,7 +1,7 @@
 {
   "name": "matlab-linter",
   "main": "./lib/matlab-linter",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A simple linter for atom matlab editing. Adds semicolons, converts double quotes to single",
   "keywords": [],
   "activationCommands": {
