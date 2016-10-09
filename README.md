@@ -1,9 +1,9 @@
 # matlab-linter package
 
 *The only deployed functionality at the moment is auto insertion
-of semicolons on the correct line in Matlab files upon saving.*
+of semicolons on the correct line in Matlab files when ctrl-; is pressed.*
 
-If you do not like typing semicolons, this package will do it for you. If you are hoping
+If you do not like typing semicolons, this package will do it for you.  If you are hoping
 for more robust linter, please check back soon as the package is being worked on.
 
 
