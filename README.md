@@ -1,5 +1,7 @@
 # matlab-linter package
 
-A short description of your package.
+*The only deployed functionality at the moment is auto insertion
+of semicolons on the correct line in Matlab files upon saving.*
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+If you do not like typing semicolons, this package will do it for you. If you are hoping
+for more robust linter, please check back soon as the package is being worked on.
