@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle matlab-linter",
+        "command": "matlab-linter:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "matlab-linter",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "matlab-linter:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

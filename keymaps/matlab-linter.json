@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "cmd-s": "matlab-linter:add-semicolons"
+  }
+}
